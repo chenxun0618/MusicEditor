@@ -2,11 +2,11 @@
 
 This is a project for the object-oriented design course at Northeastern University.
 
-**DO NOT** copy, plagiarize or transmit the code in any form without permission of the code owener.
+**DO NOT** copy, plagiarize or transmit the code in any form without permission of the code owener. \n
 **DO NOT** use the code for acamedic purposes without the permission of the school.
 
 
-## Instruction:
+## Instructions:
 To run the demo, download the "MusicEditor.jar" file and the "inputFile" folder to the same directory, cd to the directory that contains the files from command line, and use the following command to run the program:
 
 java -jar MusicEditor.jar (file number)
