@@ -2,7 +2,7 @@
 
 This is a project for the object-oriented design course at Northeastern University.
 
-**DO NOT** copy, plagiarize or transmit the code in any form without permission of the code owener. \n
+**DO NOT** copy, plagiarize or transmit the code in any form without permission of the code owener
 **DO NOT** use the code for acamedic purposes without the permission of the school.
 
 
