@@ -5,6 +5,9 @@ This is a project for the object-oriented design course at Northeastern Universi
 **DO NOT** use the code for acamedic purposes without the permission of the school.
 
 
+## About this project
+The project name is very self-explanatory, it is a Music Editor which parses the files in "inputFile" and produces a piece of music.
+
 ## Instructions:
 To run the demo, download the "MusicEditor.jar" file and the "inputFile" folder to the same directory, cd to the directory that contains the files from command line, and use the following command to run the program:
 
